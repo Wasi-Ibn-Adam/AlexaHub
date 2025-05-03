@@ -1,19 +1,7 @@
-#######################################
-# Datatypes (KEYWORD1)
-#######################################
-
 AlexaStateCallBack KEYWORD1
-
-#######################################
-# Classes (KEYWORD1)
-#######################################
-
 AlexaHub KEYWORD1
 AlexaSwitch KEYWORD1
 
-#######################################
-# Methods and Functions (KEYWORD2)
-#######################################
 
 addDevice KEYWORD2
 handle KEYWORD2
@@ -21,11 +9,3 @@ init KEYWORD2
 setState KEYWORD2
 sendState KEYWORD2
 getAlexaInvokeName KEYWORD2
-
-#######################################
-# Instances (KEYWORD2)
-#######################################
-
-#######################################
-# Constants (LITERAL1)
-#######################################
